@@ -1,12 +1,12 @@
 # get_it
 
-A new Flutter project.
+Dependency Injection.
+
+![Diagram for Get_it](/assets/doc_images/meme.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+This project is a Dependency Injection method learning.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)

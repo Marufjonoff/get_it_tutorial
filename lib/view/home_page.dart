@@ -4,6 +4,8 @@ import 'package:get_it_tutorial/domain/models/meme.dart';
 import 'package:get_it_tutorial/locator.dart';
 
 class HomePageView extends StatefulWidget {
+  const HomePageView({Key? key}) : super(key: key);
+
   @override
   _HomePageViewState createState() => _HomePageViewState();
 }
